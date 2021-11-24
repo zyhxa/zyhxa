@@ -2,7 +2,7 @@
 - 👀 I’m interested in data processing  
 - 🌱 I’m currently learning python numpy and matlab
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  971093500@qq.com
+- 📫 How to reach me  zyihao136@gmail.com
 
 <!---
 zyhxa/zyhxa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
