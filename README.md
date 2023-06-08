@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zyhxa
-- 👀 I’m interested in data processing  
-- 🌱 I’m currently learning python numpy and matlab
+- 👀 I’m interested in reptile  
+- 🌱 I’m currently learning python reptile and scrapy
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  zyihao136@gmail.com
 
